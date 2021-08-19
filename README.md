@@ -1,10 +1,6 @@
-# CursoAR_2021
-Código del curso AR 2021 usando AR.js
+# Repositorio del curso de RA 2021 (AR.js)
+## Creado por la medichaina 
+### Dirección Enrique Segoviano
 
-## Se incluyen ejemplos de:
-
-- Location Based
-- Image Traking
-- Marker Based
-
-Organizado por [remitee.org](http://remitee.org "Red Mexicana de Investigadores en Tecnologias Emergentes para la Educación")
+- Mi primer ejemplo uwu
+:D
